@@ -1,5 +1,5 @@
 
-v1 node/ express start file
+v1 node/ express starter file
 
 the project uses 1 schema "userSchema"
 
